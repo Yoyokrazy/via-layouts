@@ -6,7 +6,7 @@
     "{KC_LGUI,KC_TAB}",
     "{KC_LALT,KC_SPC}",
     "{KC_LCTL,KC_LGUI,KC_LEFT}",
-    "{KC_LCTL,KC_LGUI,KC_RGHT}",
+    "{KC_LGUI,KC_LCTL,KC_LSFT,KC_P}",
     "",
     "",
     "",
@@ -111,7 +111,7 @@
       "KC_NO",
       "KC_NO",
       "KC_NO",
-      "KC_RCTL"
+      "KC_LALT"
     ],
     [
       "MACRO(0)",
@@ -139,7 +139,7 @@
       "KC_TRNS",
       "KC_UP",
       "KC_TRNS",
-      "KC_TRNS",
+      "MACRO(4)",
       "KC_TRNS",
       "KC_TRNS",
       "KC_VOLD",
@@ -204,7 +204,7 @@
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
-      "KC_TRNS",
+      "KC_VOLU",
       "KC_VOLU",
       "KC_TRNS",
       "KC_TRNS",
